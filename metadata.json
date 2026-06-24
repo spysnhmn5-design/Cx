@@ -1,0 +1,6 @@
+{
+  "name": "ToolCraft AI",
+  "description": "An offline-capable AI Tool Builder and Generator Platform for Android. Build, sandbox, edit, and auto-debug custom HTML/JS tools instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
